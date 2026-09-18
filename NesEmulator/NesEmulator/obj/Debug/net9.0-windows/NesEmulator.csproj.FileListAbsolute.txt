@@ -1,0 +1,14 @@
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\bin\Debug\net9.0-windows\NesEmulator.exe
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\bin\Debug\net9.0-windows\NesEmulator.deps.json
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\bin\Debug\net9.0-windows\NesEmulator.runtimeconfig.json
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\bin\Debug\net9.0-windows\NesEmulator.dll
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\bin\Debug\net9.0-windows\NesEmulator.pdb
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.AssemblyInfoInputs.cache
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.AssemblyInfo.cs
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.csproj.CoreCompileInputs.cache
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.dll
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\refint\NesEmulator.dll
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.pdb
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\NesEmulator.genruntimeconfig.cache
+C:\Users\vlad.sandu\RiderProjects\NesEmulator\NesEmulator\obj\Debug\net9.0-windows\ref\NesEmulator.dll
