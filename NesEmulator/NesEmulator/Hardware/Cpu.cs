@@ -48,7 +48,7 @@ public partial class Cpu
         // { 0x71, () => ADC(0x71, AddressingMode.IndY, 6, true) },
         //
         
-        { 0xA9, () => LDA(0xA9, AddressingMode.Implied, 2, false)},
+        { 0xA9, () => LDA(0xA9, AddressingMode.Imd, 2, false)},
         { 0xBD, () => LDA(0xBD, AddressingMode.AX, 4, true)},
         { 0x00, () => BRK(0x00, AddressingMode.Imd, 7, true)},
         
@@ -59,7 +59,7 @@ public partial class Cpu
         { 0xD8, () => CLD(0xD8, AddressingMode.Implied, 2, false)},
         { 0x10, () => BPL(0x10, AddressingMode.Relative, 2, true)},
         { 0x05, () => ORA(0x05, AddressingMode.ZP, 3, false)},
-        { 0x19, () => ORA(0x19, AddressingMode.ZP, 4, true)},
+        { 0x19, () => ORA(0x19, AddressingMode.AY, 4, true)},
         
         
     };
